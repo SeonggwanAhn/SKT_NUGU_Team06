@@ -1,0 +1,14 @@
+
+
+		#########start train_target()#########
+
+
+Traceback (most recent call last):
+  File "uda_digit.py", line 525, in <module>
+    train_target(args)
+  File "uda_digit.py", line 333, in train_target
+    netB.load_state_dict(torch.load(args.modelpath))
+  File "/home/sgahn/anaconda3/envs/skt/lib/python3.6/site-packages/torch/nn/modules/module.py", line 777, in load_state_dict
+    self.__class__.__name__, "\n\t".join(error_msgs)))
+RuntimeError: Error(s) in loading state_dict for feat_linear:
+	Missing key(s) in state_dict: "bn.weight", "bn.bias", "bn.running_mean", "bn.running_var". 

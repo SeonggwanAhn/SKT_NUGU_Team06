@@ -1,0 +1,88 @@
+==========================================
+gpu_id:0
+s:0
+t:1
+max_epoch:30
+batch_size:64
+worker:4
+dset:m2u_half
+lr:0.01
+seed:2020
+cls_par:0.1
+ent_par:1.0
+gent:True
+ent:True
+bottleneck:42
+layer:wn
+classifier:bn
+smooth:0.1
+output:ckps_digits
+issave:True
+issplit:True
+mode:student
+class_num:10
+output_dir:ckps_digits/seed2020/m2u_half/split_model/student
+savename:par_0.1
+out_file:<_io.TextIOWrapper name='ckps_digits/seed2020/m2u_half/split_model/student/log_tar_par_0.1.txt' mode='w' encoding='UTF-8'>
+
+Accuracy = 15.02% -> 63.07%
+Task: m2u_half, Iter:117/3510; Accuracy = 83.66%
+Accuracy = 84.43% -> 90.01%
+Task: m2u_half, Iter:234/3510; Accuracy = 93.12%
+Accuracy = 92.28% -> 91.70%
+Task: m2u_half, Iter:351/3510; Accuracy = 94.19%
+Accuracy = 93.01% -> 91.84%
+Task: m2u_half, Iter:468/3510; Accuracy = 93.12%
+Accuracy = 92.26% -> 91.01%
+Task: m2u_half, Iter:585/3510; Accuracy = 93.17%
+Accuracy = 92.13% -> 90.27%
+Task: m2u_half, Iter:702/3510; Accuracy = 92.42%
+Accuracy = 92.16% -> 90.23%
+Task: m2u_half, Iter:819/3510; Accuracy = 93.60%
+Accuracy = 92.24% -> 90.10%
+Task: m2u_half, Iter:936/3510; Accuracy = 93.28%
+Accuracy = 92.30% -> 89.86%
+Task: m2u_half, Iter:1053/3510; Accuracy = 92.58%
+Accuracy = 91.75% -> 89.12%
+Task: m2u_half, Iter:1170/3510; Accuracy = 93.01%
+Accuracy = 92.04% -> 88.81%
+Task: m2u_half, Iter:1287/3510; Accuracy = 92.63%
+Accuracy = 91.40% -> 88.34%
+Task: m2u_half, Iter:1404/3510; Accuracy = 92.31%
+Accuracy = 91.40% -> 87.86%
+Task: m2u_half, Iter:1521/3510; Accuracy = 91.61%
+Accuracy = 90.64% -> 87.38%
+Task: m2u_half, Iter:1638/3510; Accuracy = 91.72%
+Accuracy = 90.58% -> 87.48%
+Task: m2u_half, Iter:1755/3510; Accuracy = 90.86%
+Accuracy = 90.13% -> 86.86%
+Task: m2u_half, Iter:1872/3510; Accuracy = 90.43%
+Accuracy = 89.76% -> 86.56%
+Task: m2u_half, Iter:1989/3510; Accuracy = 90.11%
+Accuracy = 89.31% -> 86.29%
+Task: m2u_half, Iter:2106/3510; Accuracy = 90.05%
+Accuracy = 89.14% -> 86.00%
+Task: m2u_half, Iter:2223/3510; Accuracy = 89.62%
+Accuracy = 88.88% -> 85.48%
+Task: m2u_half, Iter:2340/3510; Accuracy = 89.19%
+Accuracy = 88.24% -> 84.82%
+Task: m2u_half, Iter:2457/3510; Accuracy = 87.74%
+Accuracy = 86.65% -> 83.50%
+Task: m2u_half, Iter:2574/3510; Accuracy = 87.04%
+Accuracy = 86.22% -> 82.93%
+Task: m2u_half, Iter:2691/3510; Accuracy = 87.10%
+Accuracy = 86.04% -> 82.27%
+Task: m2u_half, Iter:2808/3510; Accuracy = 86.61%
+Accuracy = 85.52% -> 81.73%
+Task: m2u_half, Iter:2925/3510; Accuracy = 86.40%
+Accuracy = 85.21% -> 81.14%
+Task: m2u_half, Iter:3042/3510; Accuracy = 86.13%
+Accuracy = 84.94% -> 80.37%
+Task: m2u_half, Iter:3159/3510; Accuracy = 84.68%
+Accuracy = 84.24% -> 79.73%
+Task: m2u_half, Iter:3276/3510; Accuracy = 84.41%
+Accuracy = 83.75% -> 79.36%
+Task: m2u_half, Iter:3393/3510; Accuracy = 83.60%
+Accuracy = 83.48% -> 78.91%
+Task: m2u_half, Iter:3510/3510; Accuracy = 83.49%
+Task: m2u_half, Accuracy = 15.22%

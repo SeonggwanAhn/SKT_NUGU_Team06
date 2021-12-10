@@ -1,0 +1,162 @@
+
+
+		#########start train_target()#########
+
+
+Accuracy = 15.02% -> 63.07%
+
+loss :  tensor(-1.7799, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:117/3510; Accuracy = 83.66%
+
+Accuracy = 84.43% -> 90.01%
+
+loss :  tensor(-1.9276, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:234/3510; Accuracy = 93.12%
+
+Accuracy = 92.28% -> 91.70%
+
+loss :  tensor(-1.9980, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:351/3510; Accuracy = 94.19%
+
+Accuracy = 93.01% -> 91.84%
+
+loss :  tensor(-1.9864, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:468/3510; Accuracy = 93.12%
+
+Accuracy = 92.26% -> 91.01%
+
+loss :  tensor(-1.5286, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:585/3510; Accuracy = 93.17%
+
+Accuracy = 92.13% -> 90.27%
+
+loss :  tensor(-2.0032, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:702/3510; Accuracy = 92.42%
+
+Accuracy = 92.16% -> 90.23%
+
+loss :  tensor(-1.9358, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:819/3510; Accuracy = 93.60%
+
+Accuracy = 92.24% -> 90.10%
+
+loss :  tensor(-1.8879, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:936/3510; Accuracy = 93.28%
+
+Accuracy = 92.30% -> 89.86%
+
+loss :  tensor(-1.9701, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1053/3510; Accuracy = 92.58%
+
+Accuracy = 91.75% -> 89.12%
+
+loss :  tensor(-2.0440, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1170/3510; Accuracy = 93.01%
+
+Accuracy = 92.04% -> 88.81%
+
+loss :  tensor(-1.8453, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1287/3510; Accuracy = 92.63%
+
+Accuracy = 91.40% -> 88.34%
+
+loss :  tensor(-1.5240, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1404/3510; Accuracy = 92.31%
+
+Accuracy = 91.40% -> 87.86%
+
+loss :  tensor(-2.0676, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1521/3510; Accuracy = 91.61%
+
+Accuracy = 90.64% -> 87.38%
+
+loss :  tensor(-1.9198, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1638/3510; Accuracy = 91.72%
+
+Accuracy = 90.58% -> 87.48%
+
+loss :  tensor(-1.8711, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1755/3510; Accuracy = 90.86%
+
+Accuracy = 90.13% -> 86.86%
+
+loss :  tensor(-2.0850, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1872/3510; Accuracy = 90.43%
+
+Accuracy = 89.76% -> 86.56%
+
+loss :  tensor(-1.7694, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:1989/3510; Accuracy = 90.11%
+
+Accuracy = 89.31% -> 86.29%
+
+loss :  tensor(-2.2004, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2106/3510; Accuracy = 90.05%
+
+Accuracy = 89.14% -> 86.00%
+
+loss :  tensor(-1.6242, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2223/3510; Accuracy = 89.62%
+
+Accuracy = 88.88% -> 85.48%
+
+loss :  tensor(-2.0356, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2340/3510; Accuracy = 89.19%
+
+Accuracy = 88.24% -> 84.82%
+
+loss :  tensor(-1.8756, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2457/3510; Accuracy = 87.74%
+
+Accuracy = 86.65% -> 83.50%
+
+loss :  tensor(-1.9199, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2574/3510; Accuracy = 87.04%
+
+Accuracy = 86.22% -> 82.93%
+
+loss :  tensor(-1.8081, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2691/3510; Accuracy = 87.10%
+
+Accuracy = 86.04% -> 82.27%
+
+loss :  tensor(-2.0824, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2808/3510; Accuracy = 86.61%
+
+Accuracy = 85.52% -> 81.73%
+
+loss :  tensor(-1.5114, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:2925/3510; Accuracy = 86.40%
+
+Accuracy = 85.21% -> 81.14%
+
+loss :  tensor(-1.9431, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:3042/3510; Accuracy = 86.13%
+
+Accuracy = 84.94% -> 80.37%
+
+loss :  tensor(-1.9281, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:3159/3510; Accuracy = 84.68%
+
+Accuracy = 84.24% -> 79.73%
+
+loss :  tensor(-1.9241, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:3276/3510; Accuracy = 84.41%
+
+Accuracy = 83.75% -> 79.36%
+
+loss :  tensor(-1.8492, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:3393/3510; Accuracy = 83.60%
+
+Accuracy = 83.48% -> 78.91%
+
+loss :  tensor(-1.7890, device='cuda:0', grad_fn=<AddBackward0>)
+Task: m2u_half, Iter:3510/3510; Accuracy = 83.49%
+
+
+
+		#########start test_target()#########
+
+
+Task: m2u_half, Accuracy = 15.22%
+

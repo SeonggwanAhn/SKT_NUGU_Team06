@@ -6,8 +6,8 @@
 
 
 ### Training:
-##### Unsupervised Closed-set Domain Adaptation (UDA) on the Digits dataset with Knowledge Distillation
-	- MNIST -> USPS (**m2u**)
+##### Unsupervised Domain Adaptation (UDA) on the Digits dataset with Data-free Knowledge Distillation
+- MNIST -> USPS (**m2u**)
 	```python
 	 python uda_digit.py --dset m2u_half --gpu_id 0 --output ckps_digits --cls_par 0.1 --issplit True, --mode student --bottleneck 42
 	```

@@ -6,7 +6,7 @@
 
 
 ### Training:
-##### Unsupervised Closed-set Domain Adaptation (UDA) on the Digits dataset
+##### Unsupervised Domain Adaptation (UDA) on the Digits dataset without Knowledge Distillation
 - MNIST -> USPS (**m2u**)
 	
 	```python

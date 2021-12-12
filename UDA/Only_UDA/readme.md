@@ -7,7 +7,7 @@
 
 ### Training:
 ##### Unsupervised Closed-set Domain Adaptation (UDA) on the Digits dataset
-	- MNIST -> USPS (**m2u**)
+- MNIST -> USPS (**m2u**)
 	
 	```python
 	 python uda_digit.py --dset m2u --gpu_id 0 --output ckps_digits --cls_par 0.1
